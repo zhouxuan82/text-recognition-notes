@@ -79,4 +79,4 @@ ys@ysubuntu:~/caffe/python$
 
 看一下得到的模型图长什么样子：
 
-![Screenshot from 2018-03-09 09-19-35](text-recognition-notes/image/Screenshot from 2018-03-09 09-19-35.png)
+![Screenshot from 2018-03-09 09-19-35](https://github.com/YanShuang17/text-recognition-notes/blob/master/image/Screenshot%20from%202018-03-09%2009-19-35.png?raw=true)
